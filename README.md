@@ -1,4 +1,4 @@
-# flutter_firebase
+# Stream Builder in Flutter
 
 A new Flutter application.
 
